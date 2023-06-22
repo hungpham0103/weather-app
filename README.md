@@ -20,4 +20,4 @@ docker run -p 8000:8000 weatherapp
 
 Access API Documentation:
 
-Để access API Documentation (Swagger UI), truy cập: http:0.0.0.0:8000/docs
+Để access API Documentation (Swagger UI), truy cập: [http://0.0.0.0:8000/docs](http://0.0.0.0:8000/docs)
